@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  envelope-game:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-03-23T16:03:45.933144-07:00"
+    dependencies:
+    - name: mysql
+      repository: https://charts.bitnami.com/bitnami
+      version: 6.14.10
+    description: A Helm chart for Kubernetes
+    digest: a736979a04a0f4f748846bc5c3e732805abe799bea9306b81cb69da687b6fe79
+    name: envelope-game
+    type: application
+    urls:
+    - https://github.com/liatrio/envelope-game/releases/download/v1.0.0/envelope-game-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-03-23T16:03:45.930628-07:00"
