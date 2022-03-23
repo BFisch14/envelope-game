@@ -3,7 +3,7 @@
 
 ### About The Game
 The Envelope Game is a simple demonstration that shows the benefits of continuous flow delivery over a traditional large-batch delivery
-- Six players are divided into two Teams (Flow & Batch).
+- Six players are divided into two Teams (Flow & Batch)
 - One player from each Team is assigned to one of the following roles: Product/Planning, Development, or Quality Assurance.
 - Both teams will be given the task of using teamwork to move along the envelopes through the team into delivery of the   envelopes to the customer.
 - Each person on the batch team will be designated to work with ten envelopes at a time before handing off to the next partner in their team.
