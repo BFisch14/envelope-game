@@ -1,6 +1,6 @@
 branches:
   - master
-repositoryUrl: 'git@github.com:liatrio/envelope-game.git'
+repositoryUrl: 'git@github.com:bfisch14/envelope-game.git'
 preset: conventionalcommits
 plugins:
   - '@semantic-release/commit-analyzer'
