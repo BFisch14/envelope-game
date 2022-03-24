@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   envelope-game:
   - apiVersion: v2
+    appVersion: 1.0.2
+    created: "2022-03-24T09:25:35.670043-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 6b5a4d3acdac25b0434dbbd2cb1a21ae423a02c020852698b88da0fcb97567f4
+    name: envelope-game
+    type: application
+    urls:
+    - https://github.com/BFisch14/envelope-game/releases/download/v1.0.2/envelope-game-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
     appVersion: 1.0.1
     created: "2022-03-24T09:14:11.357649-07:00"
     description: A Helm chart for Kubernetes
@@ -25,4 +35,4 @@ entries:
     urls:
     - https://github.com/BFisch14/envelope-game/releases/download/v1.0.0/envelope-game-1.0.0.tgz
     version: 1.0.0
-generated: "2022-03-24T09:14:11.354684-07:00"
+generated: "2022-03-24T09:25:35.668829-07:00"
